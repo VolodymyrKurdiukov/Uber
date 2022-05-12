@@ -201,13 +201,12 @@
 			text-align: center;
 			text-transform: uppercase;
 		}
-		&_btn{
+		&_btn{font-size: 10px;
 			display: block;
 			height: 35px;
 			width: 180px;
 			margin: 0 auto;
 			margin-top: 8px;
-			line-height: 14;
 			&:hover{
 				background-image: linear-gradient(to top, #1eacc7 0%, #4ce2ff 100%);
 			}
